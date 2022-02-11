@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Welcome to BeeHive!](README.md)
-* [📩 Email Verification](email-verification.md)
 
-## ⚙ Command Documentation
+## ⚙ Feature Documentation
 
-* [⚖ Basic AutoMod](command-documentation/basic-automod.md)
-* [🔗 AntiPhishing](command-documentation/antiphishing.md)
-* [🆔 CAPTCHA / Checkpoint](command-documentation/captcha-checkpoint.md)
+* [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
+* [🔗 AntiPhishing](feature-documentation/antiphishing.md)
+* [🆔 CAPTCHA / Checkpoint](feature-documentation/captcha-checkpoint.md)
+* [📩 Email Verification](feature-documentation/email-verification.md)
 
 ## 🤝 FAQ + Support
 
