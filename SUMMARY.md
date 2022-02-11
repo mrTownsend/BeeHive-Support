@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Welcome to BeeHive!](README.md)
-* [🔗 AntiPhishing](antiphishing.md)
 
 ## ⚙ Command Documentation
 
-* [⚖ AutoMod ](command-documentation/automod.md)
+* [⚖ Basic AutoMod](command-documentation/basic-automod.md)
+* [🔗 AntiPhishing](command-documentation/antiphishing.md)
 
 ## 🤝 FAQ + Support
 
