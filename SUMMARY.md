@@ -18,6 +18,7 @@
 
 ## 🛅 Legal Documents
 
+* [🗃 Data Management](legal-documents/data-management.md)
 * [⚖ Bot Terms of Service](legal-documents/bot-terms-of-service.md)
 * [⚖ Website Terms of Service](legal-documents/website-terms-of-service.md)
 * [📹 Privacy Policy](legal-documents/privacy-policy.md)
