@@ -15,6 +15,7 @@
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
 * [🎵 Music](feature-documentation/music.md)
 * [🕐 Time Channels](feature-documentation/time-channels.md)
+* [🔐 WARDEN](feature-documentation/warden.md)
 
 ## 🤝 FAQ + Support
 
