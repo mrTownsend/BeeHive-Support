@@ -5,6 +5,7 @@
 
 ## ⚙ Feature Documentation
 
+* [🕳 Role Control](feature-documentation/role-control.md)
 * [🛡 AI Defender](feature-documentation/ai-defender.md)
 * [🔗 AntiPhishing](feature-documentation/antiphishing.md)
 * [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
