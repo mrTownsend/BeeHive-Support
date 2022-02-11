@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/infrastructure-transition-containers-blog-banner.png
+coverY: -93.64517969195664
+---
+
 # 🔐 WARDEN
 
 {% hint style="danger" %}
@@ -7,13 +12,13 @@ WARDEN is an AutoMod module and is capable of executing destructive actions! Be 
 
 ## Warden
 
-* [An introduction to Warden](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#an-introduction-to-warden)
-* [Advanced features](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#advanced-features)
-* [Events](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#events)
-* [Conditions](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#conditions)
-* [Actions](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#actions)
-* [Context variables](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#context-variables)
-* [Examples](https://github.com/Twentysix26/x26-Cogs/wiki/Warden#examples)
+* [An introduction to Warden](warden.md#an-introduction-to-warden)
+* [Advanced features](warden.md#advanced-features)
+* [Events](warden.md#events)
+* [Conditions](warden.md#conditions)
+* [Actions](warden.md#actions)
+* [Context variables](warden.md#context-variables)
+* [Examples](warden.md#examples)
 
 ### An introduction to Warden
 
