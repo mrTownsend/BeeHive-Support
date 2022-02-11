@@ -5,7 +5,6 @@
 
 ## ⚙ Feature Documentation
 
-* [🕳 Role Control](feature-documentation/role-control.md)
 * [🛡 AI Defender](feature-documentation/ai-defender.md)
 * [🔗 AntiPhishing](feature-documentation/antiphishing.md)
 * [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
@@ -16,6 +15,7 @@
 * [📩 Email Verification](feature-documentation/email-verification.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
 * [🎵 Music](feature-documentation/music.md)
+* [🕳 Role Control](feature-documentation/role-control.md)
 * [🕐 Time Channels](feature-documentation/time-channels.md)
 * [🔐 WARDEN](feature-documentation/warden.md)
 
