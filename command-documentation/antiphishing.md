@@ -9,7 +9,7 @@ description: Part of AutoMod, this module is enabled by default silently.
 No need to worry, BeeHive's already scanning for bad links as soon as it joins your server! Configuration is optional, but still nice.
 {% endhint %}
 
-**AntiPhishing** helps combat Discord Phishing Scams by watching for known malicious links and removing them. Configurable options include where to send mod alerts when bad links get caught, and where to alert your **users** about malicious phishing attempts. Some server owners prefer to configure this to a public chat channel where the most users are typically going to be, others prefer to set it to some sort of announcement channel. Do as you please.
+**AntiPhishing** helps combat Discord Phishing Scams by watching for known malicious links and removing them. Configurable options include where to send mod alerts when bad links get caught, and where to alert your **users** about malicious phishing attempts. Some server owners prefer to configure this to a public chat channel where the most users are typically going to be, others prefer to set it to some sort of announcement channel. Do as you please.&#x20;
 
 ## Screenshots
 
