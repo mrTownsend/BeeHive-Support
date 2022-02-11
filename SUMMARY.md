@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to BeeHive!](README.md)
+* [📩 Email Verification](email-verification.md)
 
 ## ⚙ Command Documentation
 
