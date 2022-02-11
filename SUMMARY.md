@@ -5,13 +5,13 @@
 
 ## ⚙ Feature Documentation
 
-* [🔢 Counting](feature-documentation/counting.md)
 * [🛡 AI Defender](feature-documentation/ai-defender.md)
 * [🔗 AntiPhishing](feature-documentation/antiphishing.md)
 * [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
 * [🎉 Birthdays](feature-documentation/birthdays.md)
 * [🆔 CAPTCHA](feature-documentation/captcha-checkpoint.md)
 * [📇 Cards Against Humanity](feature-documentation/cards-against-humanity.md)
+* [🔢 Counting](feature-documentation/counting.md)
 * [😷 COVID-19](feature-documentation/covid-19.md)
 * [🧹 Cleanup](feature-documentation/cleanup.md)
 * [📩 Email Verification](feature-documentation/email-verification.md)
