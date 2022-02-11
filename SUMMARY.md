@@ -2,7 +2,6 @@
 
 * [👋 Welcome to BeeHive!](README.md)
 * [📒 Vote For BeeHive](vote-for-beehive.md)
-* [🧾 Embeds](embeds.md)
 
 ## ⚙ Feature Documentation
 
@@ -18,6 +17,7 @@
 * [🧹 Cleanup](feature-documentation/cleanup.md)
 * [📛 DeCancer](feature-documentation/decancer.md)
 * [📩 Email Verification](feature-documentation/email-verification.md)
+* [🧾 Embeds](feature-documentation/embeds.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
 * [🎵 Music](feature-documentation/music.md)
 * [🕳 Role Control](feature-documentation/role-control.md)
