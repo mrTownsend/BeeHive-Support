@@ -2,7 +2,7 @@
 
 {% hint style="danger" %}
 **WARNING - DESTRUCTIVE ACTIONS POSSIBLE**\
-WARDEN is an AutoMod module and is capable of executing destructive actions! Be very wary with the rules that you write, and ensure you consider whether or not they could backfire or be abused. WARDEN can take drastic, irreversible actions should there be a mistake and they make be unrecoverable. **PROCEED WITH EXTREME CAUTION AND CONSULT THE DOCUMENTATION HEAVILY WHILE WORKING WITH WARDEN**
+WARDEN is an AutoMod module and is capable of executing destructive actions! Be very wary with the rules that you write, and ensure you consider whether or not they could backfire or be abused. WARDEN can take drastic, irreversible actions should there be a mistake and they may be unrecoverable. **PROCEED WITH EXTREME CAUTION AND CONSULT THE DOCUMENTATION HEAVILY WHILE WORKING WITH WARDEN**
 {% endhint %}
 
 ## Warden
