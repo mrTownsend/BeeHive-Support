@@ -9,6 +9,7 @@
 * [🔗 AntiPhishing](feature-documentation/antiphishing.md)
 * [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
 * [🎉 Birthdays](feature-documentation/birthdays.md)
+* [✊ Bump Reminders](feature-documentation/bump-reminders.md)
 * [🆔 CAPTCHA](feature-documentation/captcha-checkpoint.md)
 * [📇 Cards Against Humanity](feature-documentation/cards-against-humanity.md)
 * [🔢 Counting](feature-documentation/counting.md)
