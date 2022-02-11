@@ -4,6 +4,7 @@
 
 ## ⚙ Feature Documentation
 
+* [📟 Image Scanning](feature-documentation/image-scanning.md)
 * [⚖ Basic AutoMod](command-documentation/basic-automod.md)
 * [🔗 AntiPhishing](command-documentation/antiphishing.md)
 * [🆔 CAPTCHA / Checkpoint](command-documentation/captcha-checkpoint.md)
