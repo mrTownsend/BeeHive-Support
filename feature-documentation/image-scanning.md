@@ -2,8 +2,14 @@
 
 {% hint style="danger" %}
 **WARNING - PREMIUM FEATURE**\
-This feature is powered by SightEngine.com. \
-SightEngine allows small servers a `Free` 2,000 operations/month plan that you can use with BeeHive to moderate your server's images. If you are a large server owner however, understand that you may need to upgrade your SightEngine service tier to continue to scan images and videos after you've hit your cap.&#x20;
+This feature is powered by \[SightEngine]\(http://sightengine.com)
+
+&#x20;\
+SightEngine allows small servers a `Free` 2,000 operations/month plan that you can use with BeeHive to moderate your server's images.&#x20;
+
+
+
+If you are a large server owner however, understand that you may need to upgrade your SightEngine service tier to continue to scan images and videos after you've hit your cap.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
