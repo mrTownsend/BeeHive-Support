@@ -364,3 +364,74 @@ That's all for join monitoring setup!
 
 ## Defender - An Overview
 
+Defender is an extremely powerful moderation tool that lets you utilize our "iwrnt" system to digitally sign and receive requests for user messages in a way that is both safe, and end-to-end encrypted. Here are the main user-facing commands of Defender.&#x20;
+
+<details>
+
+<summary><code>[p]defender emergency</code></summary>
+
+Requires: `on` or `off`
+
+Upon activation, staff will be pinged and any module that is set to be active in emergency mode will be made available to your helper roles.&#x20;
+
+</details>
+
+<details>
+
+<summary><code>[p]defender freshmeat</code></summary>
+
+Shows you a list of the most recent server joins, for inspection or other reference.&#x20;
+
+</details>
+
+<details>
+
+<summary><code>[p]defender identify</code></summary>
+
+Requires: `mention` or `ID`
+
+Provide information about what rank Defender categorizes a user as well as see how many messages Defender has monitored from them total.&#x20;
+
+</details>
+
+<details>
+
+<summary><code>[p]defender memberranks</code></summary>
+
+Shows how many users are categorized in BeeHive's internal ranks.&#x20;
+
+</details>
+
+<details>
+
+<summary><code>[p]defender messages</code></summary>
+
+Utilize the `iwrnt` system to request a user's message history from our database.&#x20;
+
+SubCommands:
+
+`channel` - Shows recent messages of a channel
+
+&#x20;`exportchannel` - Exports recent messages of a channel to a file&#x20;
+
+`exportuser` - Exports recent messages of a user to a file&#x20;
+
+`user` - Shows recent messages of a user
+
+</details>
+
+<details>
+
+<summary><code>[p]defender monitor</code></summary>
+
+Shows the administrative monitor. This lets admins review when other staff members are submitting digital warrants for user messages.&#x20;
+
+</details>
+
+<details>
+
+<summary><code>[p]defender status</code></summary>
+
+Shows the current status of Defender, including settings and configuration information.&#x20;
+
+</details>
