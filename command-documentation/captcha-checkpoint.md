@@ -2,10 +2,8 @@
 
 {% hint style="warning" %}
 **ADVANCED SECURITY MODULE**\
-This module contains advanced options for deploying an anti-bot checkpoint in your server. This is very much a hands-on setup process, and you'll need to double check your work to ensure your server's safety.&#x20;
+This module contains advanced options for deploying an anti-bot checkpoint in your server. This is very much a hands-on setup process, and you'll need to double check your work to ensure your server's safety.
 {% endhint %}
-
-
 
 ![Example CAPTCHA](https://i.imgur.com/2PsED4y.png)
 

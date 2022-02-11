@@ -4,10 +4,10 @@
 
 ## ⚙ Feature Documentation
 
-* [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
-* [🔗 AntiPhishing](feature-documentation/antiphishing.md)
-* [🆔 CAPTCHA / Checkpoint](feature-documentation/captcha-checkpoint.md)
-* [📩 Email Verification](feature-documentation/email-verification.md)
+* [⚖ Basic AutoMod](command-documentation/basic-automod.md)
+* [🔗 AntiPhishing](command-documentation/antiphishing.md)
+* [🆔 CAPTCHA / Checkpoint](command-documentation/captcha-checkpoint.md)
+* [📩 Email Verification](email-verification.md)
 
 ## 🤝 FAQ + Support
 
