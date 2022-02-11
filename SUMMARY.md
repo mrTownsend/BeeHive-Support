@@ -11,6 +11,7 @@
 * [🎉 Birthdays](feature-documentation/birthdays.md)
 * [🆔 CAPTCHA](feature-documentation/captcha-checkpoint.md)
 * [📇 Cards Against Humanity](feature-documentation/cards-against-humanity.md)
+* [😷 COVID-19](feature-documentation/covid-19.md)
 * [🧹 Cleanup](feature-documentation/cleanup.md)
 * [📩 Email Verification](feature-documentation/email-verification.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
