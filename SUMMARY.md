@@ -15,6 +15,7 @@
 * [🔢 Counting](feature-documentation/counting.md)
 * [😷 COVID-19](feature-documentation/covid-19.md)
 * [🧹 Cleanup](feature-documentation/cleanup.md)
+* [📛 DeCancer](feature-documentation/decancer.md)
 * [📩 Email Verification](feature-documentation/email-verification.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
 * [🎵 Music](feature-documentation/music.md)
