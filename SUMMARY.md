@@ -2,6 +2,7 @@
 
 * [👋 Welcome to BeeHive!](README.md)
 * [📒 Vote For BeeHive](vote-for-beehive.md)
+* [🧾 Embeds](embeds.md)
 
 ## ⚙ Feature Documentation
 
