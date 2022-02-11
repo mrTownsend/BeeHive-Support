@@ -1,3 +1,5 @@
+# Email verification
+
 {% hint style="warning" %}
 **STORES USER EMAIL ADDRESS**\
 This module store's the user's email.&#x20;
