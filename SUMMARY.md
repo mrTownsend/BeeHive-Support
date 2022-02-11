@@ -18,6 +18,7 @@
 * [📛 DeCancer](feature-documentation/decancer.md)
 * [📩 Email Verification](feature-documentation/email-verification.md)
 * [🧾 Embeds](feature-documentation/embeds.md)
+* [🗓 Events](feature-documentation/events.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
 * [🎵 Music](feature-documentation/music.md)
 * [🕳 Role Control](feature-documentation/role-control.md)
