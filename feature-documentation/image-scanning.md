@@ -2,7 +2,7 @@
 
 {% hint style="danger" %}
 **WARNING - PREMIUM FEATURE**\
-This feature is powered by \[SightEngine]\(http://sightengine.com)
+This feature is powered by SightEngine
 
 &#x20;\
 SightEngine allows small servers a `Free` 2,000 operations/month plan that you can use with BeeHive to moderate your server's images.&#x20;
@@ -16,7 +16,7 @@ If you are a large server owner however, understand that you may need to upgrade
 **3RD PARTY TERMS AND CONDITIONS APPLY**
 {% endhint %}
 
-****
+**To learn more about SightEngine, go to http://SightEngine.com**
 
 One of the things that you'll find helpful about BeeHive is that you can privately analyze images for content that breaks your server's rules and automatically delete it if so. This module interfaces individually with the SightEngine API, so included below will be some install instructions to prevent you from getting overwhelmed.
 
