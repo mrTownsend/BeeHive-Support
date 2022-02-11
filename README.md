@@ -7,13 +7,13 @@ cover: .gitbook/assets/beelogo.jpg
 coverY: 0
 ---
 
-# Welcome to BeeHive!
+# 👋 Welcome to BeeHive!
+
+![The BeeHive Server Join Message](.gitbook/assets/msedge\_uspuGpDxdZ.png)
 
 ## Initial Setup
 
-When you first invite BeeHive to your server, it's the best practice to ensure it has **Administrator** if you intend on making it your go-to bot. I can assure you, BeeHive is a safe and trustable bot with a multitude of additional security measures, and exists to make friends among those seeking shelter from harassment, toxicity, scams, phishing, and much much more. To get started, you'll need to set a few things up just to cover individual modules.&#x20;
-
-
+When you first invite BeeHive to your server, it's the best practice to ensure it has **Administrator** if you intend on making it your go-to bot. I can assure you, BeeHive is a safe and trustable bot with a multitude of additional security measures and exists to make friends among those seeking shelter from harassment, toxicity, scams, phishing, and much more. To get started, you'll need to set a few things up just to cover individual modules.
 
 ## Basic Moderative Permissions
 
@@ -22,7 +22,7 @@ When you first invite BeeHive to your server, it's the best practice to ensure i
 
 ## Bot Permissions
 
-While BeeHive does not **require** that you give it Administrator for it to work properly, you **will** more than likely run into permission errors while trying to use the bot - ESPECIALLY if you've added it to a very permissions-complex server.&#x20;
+While BeeHive does not **require** that you give it Administrator for it to work properly, you **will** more than likely run into permission errors while trying to use the bot - ESPECIALLY if you've added it to a very permissions-complex server.
 
 As a Best Practice no matter your use of BeeHive, you should ensure it has the following permissions at all times to prevent a multitude of permission errors.
 
@@ -86,5 +86,4 @@ As a Best Practice no matter your use of BeeHive, you should ensure it has the f
 >
 > REQUEST\_SPEAK
 
-**ALTERNATIVELY** if you don't feel like going thru that clusterfuck of a list permission-by-permission, just give the bot  Administrator and get over your paranoia.&#x20;
-
+**ALTERNATIVELY** if you don't feel like going thru that clusterfuck of a list permission-by-permission, just give the bot Administrator and get over your paranoia.

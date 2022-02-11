@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/ai__customer_service_2000x500.jpg
+coverY: 0
+---
+
 # 📟 Image Scanning
 
 {% hint style="danger" %}
@@ -9,7 +14,7 @@ SightEngine allows small servers a `Free` 2,000 operations/month plan that you c
 
 
 
-If you are a large server owner however, understand that you may need to upgrade your SightEngine service tier to continue to scan images and videos after you've hit your cap.&#x20;
+If you are a large server owner however, you'll need to reach out to us to subscribe to our `Hybrid` processing plan. Send us an email - human@beehive.systems&#x20;
 {% endhint %}
 
 {% hint style="warning" %}

@@ -1,14 +1,20 @@
 # Table of contents
 
-* [Welcome to BeeHive!](README.md)
+* [👋 Welcome to BeeHive!](README.md)
 
 ## ⚙ Feature Documentation
 
+* [🛡 AI Defender](feature-documentation/ai-defender.md)
+* [🔗 AntiPhishing](feature-documentation/antiphishing.md)
+* [⚖ Basic AutoMod](feature-documentation/basic-automod.md)
+* [🎉 Birthdays](feature-documentation/birthdays.md)
+* [🆔 CAPTCHA](feature-documentation/captcha-checkpoint.md)
+* [📇 Cards Against Humanity](feature-documentation/cards-against-humanity.md)
+* [🧹 Cleanup](feature-documentation/cleanup.md)
+* [📩 Email Verification](feature-documentation/email-verification.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
-* [⚖ Basic AutoMod](command-documentation/basic-automod.md)
-* [🔗 AntiPhishing](command-documentation/antiphishing.md)
-* [🆔 CAPTCHA / Checkpoint](command-documentation/captcha-checkpoint.md)
-* [📩 Email Verification](email-verification.md)
+* [🎵 Music](feature-documentation/music.md)
+* [🕐 Time Channels](feature-documentation/time-channels.md)
 
 ## 🤝 FAQ + Support
 

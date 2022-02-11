@@ -1,0 +1,50 @@
+---
+description: An additional CAPTCHA-esque security measure for your server
+cover: ../.gitbook/assets/infrastructure-transition-containers-blog-banner.png
+coverY: -85.91439688715954
+---
+
+# 📩 Email Verification
+
+{% hint style="warning" %}
+**STORES USER EMAIL ADDRESS**\
+This module store's the user's email.
+{% endhint %}
+
+**Email Verification** is an alternate form of CAPTCHA that requires a little bit more advanced setup to function properly. However, it is a nearly un-bypassable human verification method considering it's adaptation rate.
+
+## Screenshots
+
+User-Facing Verify Command:
+
+![Verify Command](https://i.imgur.com/e8JBbsx.png)
+
+## Commands
+
+**Configuratiion Commands**
+
+> \[p]verifyset domain
+>
+> > Restrict verification to a specific email domain.
+
+> \[p]verifyset email
+>
+> > Set the email for verification.
+
+> \[p]verifyset instructions
+>
+> > Instructions for verification setup.
+
+> \[p]verifyset logchannel
+>
+> > Set the channel for verification logs
+
+> \[p]verifyset role
+>
+> > Set the role for verification
+
+**User-Facing Commands**
+
+> \[p]verify
+>
+> > Command for users to submit their email/code for verification.
