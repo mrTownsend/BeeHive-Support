@@ -172,7 +172,7 @@ Supported Languages: `English`
 
 > First, let's make sure we're only filtering the categories that we want filtered in our server.
 
-Command: `[p]dset commentanalysis attributes TOXICITY SEVERE_TOXICITY IDENTITY_ATTACK INSULT PROFANITY THREAT SEXUALLY_EXPLICIT FLIRATION`
+Command: `[p]dset commentanalysis attributes TOXICITY SEVERE_TOXICITY IDENTITY_ATTACK INSULT PROFANITY THREAT SEXUALLY_EXPLICIT FLIRTATION`
 
 > Remove categories from that command that you do not want to be filtered before running it. By default, running that command will enable detection for every single category it offers.
 
