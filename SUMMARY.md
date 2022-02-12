@@ -2,7 +2,6 @@
 
 * [👋 Welcome to BeeHive!](README.md)
 * [📒 Vote For BeeHive](vote-for-beehive.md)
-* [⏲ Invites](invites.md)
 
 ## ⚙ Feature Documentation
 
@@ -21,6 +20,7 @@
 * [🧾 Embeds](feature-documentation/embeds.md)
 * [🗓 Events](feature-documentation/events.md)
 * [📟 Image Scanning](feature-documentation/image-scanning.md)
+* [⏲ Invites](feature-documentation/invites.md)
 * [💬 Logging](feature-documentation/logging.md)
 * [🎵 Music](feature-documentation/music.md)
 * [🕳 Role Control](feature-documentation/role-control.md)
