@@ -1,0 +1,3 @@
+# ⚠ Certification Requirements
+
+BeeHive Bot Auditing and Certification is coming soon! Stay tuned for further information, we promise it'll be worth waiting for...

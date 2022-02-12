@@ -2,6 +2,7 @@
 
 * [👋 Welcome to BeeHive!](README.md)
 * [📒 Vote For BeeHive](vote-for-beehive.md)
+* [💬 Logging](logging.md)
 
 ## ⚙ Feature Documentation
 
@@ -30,6 +31,10 @@
 * [❔ Frequently Asked Questions](faq-+-support/frequently-asked-questions.md)
 * [‼ Error Troubleshooting](faq-+-support/error-troubleshooting.md)
 * [🐝 Meet #TeamBeeHive](faq-+-support/meet-teambeehive.md)
+
+## 🏆 3rd Party Bot Certification
+
+* [⚠ Certification Requirements](3rd-party-bot-certification/certification-requirements.md)
 
 ## 🛅 Legal Documents
 
