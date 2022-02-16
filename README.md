@@ -9,7 +9,7 @@ coverY: 0
 
 # 👋 Welcome to BeeHive!
 
-[                                    ![](https://top.gg/api/widget/owner/878370684542263337.svg)](https://top.gg/bot/878370684542263337) [![](https://top.gg/api/widget/upvotes/878370684542263337.svg)](https://top.gg/bot/878370684542263337) [![](https://top.gg/api/widget/servers/878370684542263337.svg)](https://top.gg/bot/878370684542263337)
+[![](https://top.gg/api/widget/owner/878370684542263337.svg)](https://top.gg/bot/878370684542263337) [![](https://top.gg/api/widget/upvotes/878370684542263337.svg)](https://top.gg/bot/878370684542263337) [![](https://top.gg/api/widget/servers/878370684542263337.svg)](https://top.gg/bot/878370684542263337)
 
 ![The BeeHive Server Join Message](.gitbook/assets/msedge\_uspuGpDxdZ.png)
 
@@ -20,7 +20,7 @@ When you first invite BeeHive to your server, it's the best practice to ensure i
 ## Basic Moderative Permissions
 
 1. Set applicable admin roles with `~set addadminrole @mentionrole`
-2. Set applicable mod roles with `~set addmodrule @mentionrole`
+2. Set applicable mod roles with `~set addmodrole @mentionrole`
 
 ## Bot Permissions
 
